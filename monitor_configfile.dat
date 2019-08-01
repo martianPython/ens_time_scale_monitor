@@ -1,0 +1,4 @@
+[Configuration Settings]
+log_directory =/home/computers/log/monitoring/
+ens_logfile = ensMonitor.log
+irnswt_logfile =irnwtDisplay_
